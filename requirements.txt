@@ -1,0 +1,4 @@
+gymnasium
+swig
+gymnasium[classic-control]
+ufal.pybox2d 
